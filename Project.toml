@@ -12,7 +12,7 @@ Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 
 [compat]
 DataStructures = "0.17, 0.18"
-Distributions = "0.22, 0.23, 0.24"
+Distributions = "0.22, 0.23, 0.24, 0.25"
 Unitful = "1"
 julia = "1"
 
